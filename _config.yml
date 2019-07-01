@@ -1,0 +1,28 @@
+
+remote_theme: yous/whiteglass
+
+title: whiteglass theme
+
+author: Yous
+
+description: Minimal, responsive Jekyll theme for hackers.
+
+baseurl: "/whiteglass" # the subpath of your site, e.g. /blog
+
+url: "https://yous.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+lang: en
+
+twitter_username: 
+
+twitter_image: 
+
+facebook_app_id: 
+
+facebook_image: 
+
+google_analytics: 
+
+comments: false
+
+excerpt_separator: "<!-- more -->"
